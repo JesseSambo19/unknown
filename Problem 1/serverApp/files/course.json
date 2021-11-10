@@ -1,0 +1,37 @@
+[{
+        "key": "DSA",
+        "course": "Distributed Systems Applications",
+        "learning_objects": {
+            "required": {
+                "audio": [{
+                    "name": "Topic 1",
+                    "description": "",
+                    "difficulty": ""
+                }],
+                "text": [{}]
+            },
+            "suggested": {
+                "video": [],
+                "audio": []
+            }
+        }
+    }, {
+        "key": "DSMA",
+        "course": "Distributed Systems maths Applications",
+        "learning_objects": {
+            "required": {
+                "audio": [{
+                    "name": "Topic 1",
+                    "description": "",
+                    "difficulty": ""
+                }],
+                "text": [{}]
+            },
+            "suggested": {
+                "video": [],
+                "audio": []
+            }
+        }
+    }
+
+]

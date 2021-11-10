@@ -1,0 +1,21 @@
+[
+    {
+        "@id": "AST",
+        "name": "Anne",
+        "address": {
+            "street": "Main",
+            "city": "94"
+        },
+        "codes": ["4", "8"]
+    },
+    {
+        "@id": "AST",
+        "name": "Wamu",
+        "address": {
+            "street": "Evergreen",
+            "city": "Whk"
+        },
+        "codes": ["4", "8"]
+    }
+
+]

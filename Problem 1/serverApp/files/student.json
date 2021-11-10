@@ -1,0 +1,21 @@
+[{
+    "id": "01ec1d28-fa92-1e13-95f9-2f9f8d48483cs",
+    "username": "Sem_Illeka",
+    "lastname": "Illeka",
+    "firstname": "Sem",
+    "preferred_formats": ["audio", "texts"],
+    "past_subjects": [{
+        "course": "Distributed Systems Applications",
+        "grade": "B+"
+    }]
+}, {
+    "id": "01ec1d28-fa92-1e13-95f9-2f9f8d48483b",
+    "username": "Wamu_Ndunga",
+    "lastname": "Ndunga",
+    "firstname": "Wamu",
+    "preferred_formats": ["audio", "texts"],
+    "past_subjects": [{
+        "course": "Distributed Systems Applications",
+        "grade": "A+"
+    }]
+}]
